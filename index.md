@@ -69,7 +69,7 @@ MMProgressDialog progressDialog = new MMProgressDialog(getContext());
 progressDialog.setMessage("ဘာတွေ ဖြစ်ကုန်ပြီလဲ အရပ်ကတို့");
 progressDialog.show();
 ```
-![Eg-4](https://user-images.githubusercontent.com/2491168/36755793-a38e47b8-1c3b-11e8-8a2f-3e340ad24452.gif)
+![Eg-4](https://user-images.githubusercontent.com/2491168/36756082-73887150-1c3c-11e8-9d5f-79ba8b12093b.gif)
 
 ### Eg-5 : Snackbar (with Helper Method)
 ```java
