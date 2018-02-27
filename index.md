@@ -1,6 +1,21 @@
 ## MMTextView
 An android library that display correct Myanmar text in both unicode & zawgyi phones.
 
+### Step-1: Update your {root}/build.gradle
+```
+allprojects {
+    repositories {
+        jcenter()
+        maven { url 'https://dl.bintray.com/agpyaephyo/android' }
+    }
+}
+```
+
+### Step-2: Update your {app}/build.gradle
+```
+implementation 'org.mmtextview:mmtextview:1.4'
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/agpyaephyo/agpyaephyo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
