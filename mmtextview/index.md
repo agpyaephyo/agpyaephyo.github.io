@@ -14,7 +14,7 @@ allprojects {
 
 ### Step-2: Update your {app}/build.gradle
 ```
-implementation 'org.mmtextview:mmtextview:1.4'
+implementation 'org.mmtextview:mmtextview:1.5'
 ```
 
 ### Eg-1: Simple UI Components
