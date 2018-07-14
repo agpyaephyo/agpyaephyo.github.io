@@ -2,6 +2,9 @@
 An android library that display correct Myanmar text in both unicode & zawgyi phones.
 All the App Data has to be in **_UNICODE_** to use this library.
 
+## Disclaimer
+This library is using Myat Min Soe's idea in detecting if a device is currently with Unicode / Zawgyi and Rabbit Repo in converting from Unicode to Zawgyi and Zawgyi to Unicode. **_It is my bad that I forgot to mention it in this ReadMe earlier._**
+
 ### Step-1: Update your {root}/build.gradle
 ```groovy
 allprojects {
